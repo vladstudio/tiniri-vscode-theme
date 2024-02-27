@@ -1,0 +1,45 @@
+{
+  "name": "vlad-studio-tiniri",
+  "displayName": "Vlad.studio Tiniri Theme",
+  "description": "A soft and cozy theme, with slightly retro warm colours.",
+  "version": "0.0.10",
+  "publisher": "vladstudio",
+  "license": "See LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladstudio/tiniri-vscode-theme"
+  },
+  "keywords": [
+    "Soft",
+    "Warm",
+    "Beige",
+    "Simple",
+    "Minimalistic",
+    "Newspaper",
+    "Sand",
+    "Paper"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tiniri Light",
+        "uiTheme": "vs",
+        "path": "./themes/Tiniri-Light-color-theme.json"
+      },
+      {
+        "label": "Tiniri Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tiniri-Dark-color-theme.json"
+      }
+    ]
+  }
+}
