@@ -14,8 +14,8 @@ Coming soon
 - bg.warn: #F7DDCB
 - text.base: #44403C
 - text.light: #78716C
-- text.alt-1, text.no: #BD605B
-- text.alt-2: #3A7099
+- text.alt-1, text.no: #B25752
+- text.alt-2: #356B94
 - text.warn: #B2947D
 - text.error: #E59793
 
