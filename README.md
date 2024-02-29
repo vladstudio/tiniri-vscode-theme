@@ -27,7 +27,7 @@ Coming soon
 ### Dark theme colors
 
 - bg.app: #24262B
-- bg.dimmed:
+- bg.dimmed: #202226
 - bg.selection, bg.badge: #353A42
 - bg.button, bg.no: #314F52
 - text.base: #C7BDB3
