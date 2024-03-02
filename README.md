@@ -1,12 +1,8 @@
 # Tiniri Color Theme for VS Code
 
----
-
 Coming soon
 
----
-
-### Light theme colors
+## Light theme colors
 
 - bg.app: #FAF7F0
 - bg.dimmed: #F5F1E9
@@ -22,33 +18,25 @@ Coming soon
 - text.error: #E59793
 
 
----
-
-### Dark theme colors
+## Dark theme colors
 
 - bg.app: #24262B
 - bg.dimmed: #202226
 - bg.selection, bg.badge: #353A42
 - bg.button, bg.no: #314F52
-- text.base: #C7BDB3
-- text.light: #857577
-- text.alt-1, text.warn: #EB8042
+- text.base: #DBD3CA
+- text.light: #9E8B8E
+- text.alt-1, text.warn: #EB9350
 - text.alt-2: #A89080
 - text.warn: #C76363
 - text.error: #C74D10
 
----
+## Recommended settings
 
-Coming soon
-
----
-
-### Recommended settings
-
-**Icon theme**
+**VSCode Icon theme**
 - Seti (Built in)
 
 **Fonts**
-- SF Pro
-- IBM Plex Mono
+- [SF Pro](https://developer.apple.com/fonts/)
+- [IBM Plex Mono](https://www.ibm.com/plex/)
 
