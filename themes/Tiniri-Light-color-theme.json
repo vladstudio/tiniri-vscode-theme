@@ -910,14 +910,14 @@
       "name": "C# Classes & Storage types",
       "scope": ["entity.name.type.class.cs", "storage.type.cs"],
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#44403C"
       }
     },
     {
       "name": "C# Namespaces",
       "scope": "entity.name.type.namespace.cs",
       "settings": {
-        "foreground": "#78716C"
+        "foreground": "#44403C"
       }
     },
     {
@@ -1280,7 +1280,7 @@
       "name": "Ruby Class",
       "scope": ["entity.name.type.class.ruby"],
       "settings": {
-        "foreground": "#B25752"
+        "foreground": "#44403C"
       }
     },
     {

@@ -10,7 +10,7 @@
     "descriptionForeground": "#DBD3CA",
     "widget.shadow": "#0005",
     "icon.foreground": "#DBD3CAAA",
-    "titleBar.activeBackground": "#202226",
+    "titleBar.activeBackground": "#222325",
     "notifications.background": "#252629",
     "notifications.foreground": "#DBD3CA99",
     "notificationLink.foreground": "#A89080",
@@ -55,17 +55,17 @@
     "keybindingLabel.foreground": "#9E8B8E",
     "keybindingLabel.border": "#0006",
     "keybindingLabel.bottomBorder": "#0004",
-    "activityBar.background": "#202226",
+    "activityBar.background": "#222325",
     "activityBar.foreground": "#DBD3CAAA",
     "activityBar.activeBorder": "#EB9350CC",
     "activityBarTop.activeBorder": "#EB9350CC",
     "activityBarBadge.background": "#314A52",
     "activityBarBadge.foreground": "#DBD3CAAA",
     "activityBar.border": "#0003",
-    "sideBar.background": "#202226",
+    "sideBar.background": "#222325",
     "sideBar.border": "#0003",
     "sideBar.foreground": "#DBD3CA99",
-    "sideBarSectionHeader.background": "#202226",
+    "sideBarSectionHeader.background": "#222325",
     "sideBarSectionHeader.border": "#0003",
     "sideBarSectionHeader.foreground": "#DBD3CA",
     "sideBarTitle.foreground": "#DBD3CA99",
@@ -79,13 +79,13 @@
     "tab.activeBorder": "#EB9350",
     "tab.unfocusedActiveBorder": "#EB935066",
     "tab.inactiveForeground": "#DBD3CA99",
-    "tab.inactiveBackground": "#202226",
+    "tab.inactiveBackground": "#222325",
     "tab.hoverBackground": "#0004",
     "editorGroup.border": "#0003",
     "editorGroupHeader.border": "#0003",
-    "editorGroupHeader.tabsBackground": "#202226",
+    "editorGroupHeader.tabsBackground": "#222325",
     "editorGroupHeader.tabsBorder": "#0003",
-    "editorGroupHeader.noTabsBackground": "#202226",
+    "editorGroupHeader.noTabsBackground": "#222325",
     "tab.activeModifiedBorder": "#EB9350",
     "tab.inactiveModifiedBorder": "#EB935088",
     "tab.unfocusedActiveModifiedBorder": "#EB9350AA",
@@ -150,15 +150,15 @@
     "pickerGroup.foreground": "#DBD3CA",
     "extensionButton.prominentBackground": "#314F52",
     "extensionButton.prominentForeground": "#DBD3CA",
-    "statusBar.background": "#202226",
+    "statusBar.background": "#222325",
     "statusBar.border": "#0003",
     "statusBar.debuggingBackground": "#314F5288",
     "statusBar.debuggingForeground": "#A89080",
     "statusBar.foreground": "#DBD3CA99",
-    "statusBar.noFolderBackground": "#202226",
+    "statusBar.noFolderBackground": "#222325",
     "statusBar.noFolderForeground": "#DBD3CA99",
     "statusBarItem.hoverBackground": "#0004",
-    "panel.background": "#202226",
+    "panel.background": "#222325",
     "panel.border": "#0003",
     "panelInput.border": "#0004",
     "panelTitle.activeBorder": "#EB9350CC",
@@ -192,7 +192,7 @@
     "terminal.ansiBrightMagenta": "#b97699",
     "terminal.ansiBrightRed": "#ad5149",
     "terminal.ansiBrightYellow": "#c6af69",
-    "terminal.background": "#202226",
+    "terminal.background": "#222325",
     "terminal.foreground": "#DBD3CABB",
     "toolbar.hoverBackground": "#0004",
     "diffEditor.insertedTextBackground": "#314F5233",
@@ -884,14 +884,14 @@
       "name": "C# Classes & Storage types",
       "scope": ["entity.name.type.class.cs", "storage.type.cs"],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#DBD3CA"
       }
     },
     {
       "name": "C# Namespaces",
       "scope": "entity.name.type.namespace.cs",
       "settings": {
-        "foreground": "#9E8B8E"
+        "foreground": "#DBD3CA"
       }
     },
     {
@@ -1254,7 +1254,7 @@
       "name": "Ruby Class",
       "scope": ["entity.name.type.class.ruby"],
       "settings": {
-        "foreground": "#EB9350"
+        "foreground": "#DBD3CA"
       }
     },
     {
