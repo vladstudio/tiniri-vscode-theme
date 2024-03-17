@@ -6,33 +6,21 @@ Optimized for calmness and coziness. Available in light and dark.
 
 ![Screenshot, Light](https://tiniri.vlad.studio/shots/vscode-light-h.webp)
 
-[Marketplace](https://marketplace.visualstudio.com/items?itemName=vladstudio.vlad-studio-tiniri) · [https://github.com/vladstudio/tiniri-vscode-theme](Github)
+[Install from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=vladstudio.vlad-studio-tiniri) · [Github](https://github.com/vladstudio/tiniri-vscode-theme)
 
-Download Tiniri color themes for other apps and wallpapers at [tiniri.vlad.studio](https://tiniri.vlad.studio).
+Tiniri themes for other apps and Tiniri wallpaper: 
+[tiniri.vlad.studio](https://tiniri.vlad.studio).
 
-### Light theme colors
+### Why Tiniri
 
-- bg.app: #FAF7F0
-- bg.dimmed: #F5F1E9
-- bg.warn: #F7DDCB
-- bg.badge: #B29084
-- bg.button, text.yes #538A8A
-- text.base: #44403C
-- text.light: #78716C
-- text.alt-1, text.no: #B25752
-- text.alt-2: #356B94
-- text.warn: #B2947D
-- text.error: #E59793
+- Most themes tend to use as many colors as possible for syntax highlighting. I might be sensitive, but it distracts me more than helps. I wanted a theme that uses no more than two or three colors.
+
+- Most themes tend to be neutral or cold. I wanted a theme that's slightly (but not overly) warm.
+
+- Most themes use saturated colors (same as using "loud" voice when speaking). I wanted a theme with high contrast but low saturation, "quieter" colors.
+
+- Most themes are modern, cool or expressive. I wanted a slightly retro theme, as if you're sitting in an old cozy sofa reading an old-fashioned book.
 
 
-### Dark theme colors
 
-- bg.app: #252629
-- bg.dimmed: #222325
-- bg.button, bg.no: #314A52
-- text.base: #DBD3CA
-- text.light: #9E8B8E
-- text.alt-1, text.warn: #EB9350
-- text.alt-2: #A89080
-- text.warn: #C76363
-- text.error: #C74D10
+
