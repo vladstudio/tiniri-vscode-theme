@@ -1,0 +1,1 @@
+No support for this theme! You're on your own.

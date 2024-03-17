@@ -5,12 +5,14 @@
   "version": "0.0.19",
   "publisher": "vladstudio",
   "license": "See LICENSE.md",
+  "icon": "icon/256.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/vladstudio/tiniri-vscode-theme"
   },
   "keywords": [
     "Soft",
+    "Calm",
     "Warm",
     "Beige",
     "Simple",
