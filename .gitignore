@@ -1,3 +1,2 @@
-/.DS_Store
-/patch.command
-/vlad-studio-tiniri-0.0.10.vsix
+.DS_Store
+*.vsix
