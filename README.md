@@ -1,8 +1,16 @@
 # Tiniri Color Theme for VS Code
 
-Coming soon
+Optimized for calmness and coziness. Available in light and dark.
 
-## Light theme colors
+![Screenshot, Dark](https://tiniri.vlad.studio/shots/vscode-dark-h.webp)
+
+![Screenshot, Light](https://tiniri.vlad.studio/shots/vscode-light-h.webp)
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=vladstudio.vlad-studio-tiniri) · [https://github.com/vladstudio/tiniri-vscode-theme](Github)
+
+Download Tiniri color themes for other apps and wallpapers at [tiniri.vlad.studio](https://tiniri.vlad.studio).
+
+### Light theme colors
 
 - bg.app: #FAF7F0
 - bg.dimmed: #F5F1E9
@@ -17,7 +25,7 @@ Coming soon
 - text.error: #E59793
 
 
-## Dark theme colors
+### Dark theme colors
 
 - bg.app: #252629
 - bg.dimmed: #222325
@@ -28,13 +36,3 @@ Coming soon
 - text.alt-2: #A89080
 - text.warn: #C76363
 - text.error: #C74D10
-
-## Recommended settings
-
-**VSCode Icon theme**
-- Seti (Built in)
-
-**Fonts**
-- [SF Pro](https://developer.apple.com/fonts/)
-- [IBM Plex Mono](https://www.ibm.com/plex/)
-
