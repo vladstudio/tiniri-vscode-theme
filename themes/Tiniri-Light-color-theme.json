@@ -344,7 +344,7 @@
         "storage.type.property.tsx"
       ],
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#3D3B3A"
       }
     },
     {
@@ -835,7 +835,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#78716C"
+        "foreground": "#3D3B3A"
       }
     },
     {
