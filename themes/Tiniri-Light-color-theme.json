@@ -209,7 +209,18 @@
     "diffEditorGutter.insertedLineBackground": "#538A8A22",
     "diffEditorGutter.removedLineBackground": "#AD514C18",
     "diffEditor.unchangedRegionBackground": "#FAF8F4",
-    "diffEditor.unchangedCodeBackground": "#FAF8F4"
+    "diffEditor.unchangedCodeBackground": "#FAF8F4",
+
+    "gitDecoration.addedResourceForeground": "#D28450",
+    "gitDecoration.modifiedResourceForeground": "#356B94",
+    "gitDecoration.deletedResourceForeground": "#AD514C",
+    "gitDecoration.renamedResourceForeground": "#356B94",
+    "gitDecoration.stageModifiedResourceForeground": "#356B94",
+    "gitDecoration.stageDeletedResourceForeground": "#AD514C",
+    "gitDecoration.untrackedResourceForeground": "#538A8A",
+    "gitDecoration.ignoredResourceForeground": "#78716C",
+    "gitDecoration.conflictingResourceForeground": "#AD514C",
+    "gitDecoration.submoduleResourceForeground": "#78716C"
   },
   "tokenColors": [
     {

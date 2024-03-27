@@ -209,7 +209,18 @@
     "sideBar.dropBackground": "#9E8B8E22",
     "editorGroup.dropBackground": "#9E8B8E22",
     "panelSection.dropBackground": "#9E8B8E22",
-    "terminal.dropBackground": "#9E8B8E22"
+    "terminal.dropBackground": "#9E8B8E22",
+
+    "gitDecoration.addedResourceForeground": "#D28450",
+    "gitDecoration.modifiedResourceForeground": "#356B94",
+    "gitDecoration.deletedResourceForeground": "#C76363",
+    "gitDecoration.renamedResourceForeground": "#356B94",
+    "gitDecoration.stageModifiedResourceForeground": "#356B94",
+    "gitDecoration.stageDeletedResourceForeground": "#C76363",
+    "gitDecoration.untrackedResourceForeground": "#538A8A",
+    "gitDecoration.ignoredResourceForeground": "#78716C",
+    "gitDecoration.conflictingResourceForeground": "#C76363",
+    "gitDecoration.submoduleResourceForeground": "#78716C"
   },
   "tokenColors": [
     {
