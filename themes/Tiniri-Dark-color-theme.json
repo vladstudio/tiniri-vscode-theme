@@ -73,6 +73,11 @@
     "scrollbarSlider.background": "#DBD3CA18",
     "scrollbarSlider.activeBackground": "#DBD3CA18",
     "scrollbarSlider.hoverBackground": "#DBD3CA33",
+    "breadcrumb.foreground":"#DBD3CA77",
+    "breadcrumb.background":"#222325",
+    "breadcrumb.focusForeground":"#DBD3CA",
+    "breadcrumb.activeSelectionForeground":"#DBD3CA",
+    "breadcrumbPicker.background":"#252629",
 
     "tab.border": "#0003",
     "tab.activeForeground": "#DBD3CA",
