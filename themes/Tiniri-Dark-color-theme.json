@@ -369,7 +369,7 @@
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
-        "foreground": "#9E8B8EBB"
+        "foreground": "#A89080"
       }
     },
     {
@@ -676,13 +676,6 @@
       "scope": ["variable.other.object.property"],
       "settings": {
         "foreground": "#DBD3CA"
-      }
-    },
-    {
-      "name": "Variable Property Other object",
-      "scope": ["variable.other.object.js"],
-      "settings": {
-        "fontStyle": ""
       }
     },
     {
@@ -1192,7 +1185,7 @@
         "variable.object.property.jsx"
       ],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#A89080"
       }
     },
     {
@@ -1250,13 +1243,6 @@
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
         "foreground": "#EB9350"
-      }
-    },
-    {
-      "name": "JavaScript Other Variable",
-      "scope": "variable.other.object.js",
-      "settings": {
-        "foreground": "#9E8B8E"
       }
     },
     {
