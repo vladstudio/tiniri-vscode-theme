@@ -393,7 +393,7 @@
     },
     {
       "name": "Meta Tag",
-      "scope": ["punctuation.definition.tag", "meta.tag"],
+      "scope": "punctuation.definition.tag",
       "settings": {
         "foreground": "#807974CC"
       }
@@ -402,6 +402,7 @@
       "name": "HTML Tag names",
       "scope": [
         "entity.name.tag",
+        "meta.tag",
         "meta.tag.other.html",
         "meta.tag.other.js",
         "meta.tag.other.tsx",
