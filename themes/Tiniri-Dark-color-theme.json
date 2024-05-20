@@ -217,10 +217,10 @@
     "terminal.dropBackground": "#9E8B8E22",
 
     "gitDecoration.addedResourceForeground": "#D28450",
-    "gitDecoration.modifiedResourceForeground": "#356B94",
+    "gitDecoration.modifiedResourceForeground": "#5486ad",
     "gitDecoration.deletedResourceForeground": "#C76363",
-    "gitDecoration.renamedResourceForeground": "#356B94",
-    "gitDecoration.stageModifiedResourceForeground": "#356B94",
+    "gitDecoration.renamedResourceForeground": "#5486ad",
+    "gitDecoration.stageModifiedResourceForeground": "#5486ad",
     "gitDecoration.stageDeletedResourceForeground": "#C76363",
     "gitDecoration.untrackedResourceForeground": "#538A8A",
     "gitDecoration.ignoredResourceForeground": "#78716C",
@@ -252,7 +252,7 @@
       "name": "String Quoted",
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
-        "foreground": "#EB9350"
+        "foreground": "#DBD3CA"
       }
     },
     {
@@ -278,7 +278,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -429,7 +429,7 @@
       "name": "Support Variable DOM",
       "scope": "support.variable.dom",
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -563,7 +563,7 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#9E8B8E",
+        "foreground": "#EB9350",
         "fontStyle": ""
       }
     },
@@ -668,14 +668,14 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -777,14 +777,14 @@
       "name": "Support Variable Property",
       "scope": "support.variable.property",
       "settings": {
-        "foreground": "#9E8B8E"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "Variable Function",
       "scope": "variable.function",
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -818,7 +818,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#9E8B8EBB"
+        "foreground": "#9E8B8E"
       }
     },
     {
@@ -865,28 +865,28 @@
       "name": "CoffeScript Variable Assignment",
       "scope": "variable.assignment.coffee",
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "CoffeScript Parameter Function",
       "scope": "variable.parameter.function.coffee",
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "CoffeeScript Assignments",
       "scope": "variable.assignment.coffee",
       "settings": {
-        "foreground": "#9E8B8E"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "C# Readwrite Variables",
       "scope": "variable.other.readwrite.cs",
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -942,7 +942,7 @@
         "variable.other.readwrite.js"
       ],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -986,7 +986,7 @@
         "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
       ],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1074,14 +1074,14 @@
       "name": "C++ Variable Parameter",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "Powershell Variables",
       "scope": ["variable.other.readwrite.powershell"],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1154,7 +1154,7 @@
       "name": "Other Variables in Code Documentations",
       "scope": ["variable.other.jsdoc", "variable.other.phpdoc"],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1166,14 +1166,14 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "JavaScript Variable Parameter Function",
       "scope": "variable.parameter.function.js",
       "settings": {
-        "foreground": "#9E8B8E"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1192,7 +1192,7 @@
       "name": "JavaScript Variables",
       "scope": ["variable.js", "variable.other.js"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1228,14 +1228,14 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#EB9350"
+        "foreground": "#DBD3CA"
       }
     },
     {
       "name": "Strings in JSON values",
       "scope": "string.quoted.double.json punctuation.definition.string.json",
       "settings": {
-        "foreground": "#9E8B8E"
+        "foreground": "#DBD3CA"
       }
     },
     {
@@ -1249,7 +1249,7 @@
       "name": "Ruby Variables",
       "scope": ["variable.other.ruby"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1392,14 +1392,14 @@
       "name": "PHP Variables",
       "scope": ["variable.other.php", "variable.other.property.php"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
       "name": "Support Classes in PHP",
       "scope": "support.class.php",
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1413,7 +1413,7 @@
       "name": "PHP Global Variables",
       "scope": "variable.other.global.php",
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1437,7 +1437,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1487,7 +1487,7 @@
         "variable.parameter.url.sass"
       ],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#EB9350"
       }
     },
     {
@@ -1551,7 +1551,7 @@
         "variable.ts"
       ],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#A89080"
       }
     },
     {
@@ -1618,7 +1618,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": ["variable.other.readwrite.js", "variable.parameter"],
       "settings": {
-        "foreground": "#DBD3CA"
+        "foreground": "#EB9350"
       }
     },
     {

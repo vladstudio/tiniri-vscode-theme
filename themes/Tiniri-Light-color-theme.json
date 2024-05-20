@@ -276,9 +276,9 @@
     },
     {
       "name": "String Quoted",
-      "scope": ["string.quoted", "variable.other.readwrite.js"],
+      "scope": "string.quoted",
       "settings": {
-        "foreground": "#AD514C"
+        "foreground": "#333231"
       }
     },
     {
@@ -304,7 +304,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
@@ -694,7 +694,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
@@ -844,7 +844,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#356B94"
       }
     },
     {
@@ -1254,14 +1254,14 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#AD514C"
+        "foreground": "#333231"
       }
     },
     {
       "name": "Strings in JSON values",
       "scope": "string.quoted.double.json punctuation.definition.string.json",
       "settings": {
-        "foreground": "#807974"
+        "foreground": "#333231"
       }
     },
     {
@@ -1577,7 +1577,7 @@
         "variable.ts"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
@@ -1718,7 +1718,6 @@
         "keyword",
         "punctuation.definintion.string",
         "punctuation",
-        "variable.other.readwrite.js",
         "storage.type",
         "source.css",
         "string.quoted"
