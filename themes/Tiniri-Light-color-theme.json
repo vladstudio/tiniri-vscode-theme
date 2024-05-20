@@ -395,7 +395,7 @@
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#807974"
       }
     },
     {
