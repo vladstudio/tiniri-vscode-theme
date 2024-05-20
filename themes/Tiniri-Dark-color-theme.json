@@ -306,7 +306,7 @@
       "name": "Comma in functions",
       "scope": "meta.function punctuation.separator.comma",
       "settings": {
-        "foreground": "#9E8B8EBB"
+        "foreground": "#9E8B8E"
       }
     },
     {
@@ -387,7 +387,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#A89080"
+        "foreground": "#DBD3CA"
       }
     },
     {
