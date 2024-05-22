@@ -873,7 +873,7 @@
       "name": "CoffeScript Parameter Function",
       "scope": "variable.parameter.function.coffee",
       "settings": {
-        "foreground": "#EB9350"
+        "foreground": "#DBD3CA"
       }
     },
     {
