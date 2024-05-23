@@ -360,7 +360,7 @@
         "storage.type.property.tsx"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#356B94"
       }
     },
     {
@@ -414,7 +414,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#807974"
       }
     },
     {
@@ -428,7 +428,7 @@
       "name": "Entity Name Tag Custom",
       "scope": "entity.name.tag.custom",
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#807974"
       }
     },
     {
@@ -603,7 +603,7 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#356B94",
+        "foreground": "#807974",
         "fontStyle": ""
       }
     },
@@ -660,7 +660,7 @@
       "name": "Doctypes",
       "scope": ["entity.name.tag.doctype", "meta.tag.sgml.doctype"],
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#807974"
       }
     },
     {
@@ -939,7 +939,7 @@
         "support.constant.property-value.css"
       ],
       "settings": {
-        "foreground": "#356B94",
+        "foreground": "#807974",
         "fontStyle": ""
       }
     },
@@ -1304,7 +1304,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#807974"
       }
     },
     {
@@ -1638,7 +1638,7 @@
       "name": "YAML Entity Name Tags",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#807974"
       }
     },
     {
