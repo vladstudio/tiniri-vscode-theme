@@ -1241,7 +1241,7 @@
       "name": "JSON Property Names",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#356B94"
       }
     },
     {
