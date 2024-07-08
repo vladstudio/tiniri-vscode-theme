@@ -388,7 +388,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
@@ -709,7 +709,7 @@
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
@@ -978,13 +978,6 @@
         "source.elixir support.type.elixir",
         "source.elixir meta.module.elixir entity.name.class.elixir"
       ],
-      "settings": {
-        "foreground": "#356B94"
-      }
-    },
-    {
-      "name": "Elixir Functions",
-      "scope": "source.elixir entity.name.function",
       "settings": {
         "foreground": "#356B94"
       }
