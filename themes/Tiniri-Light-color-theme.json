@@ -87,7 +87,7 @@
     "tab.unfocusedActiveBorder": "#AD514C66",
     "tab.inactiveBackground": "#F7F3F0",
     "tab.inactiveForeground": "#807974",
-    "tab.hoverBackground": "#80797411",
+    "tab.hoverBorder": "#AD514C99",
     "editorGroup.border": "#80797420",
     "editorGroupHeader.border": "#80797420",
     "editorGroupHeader.tabsBackground": "#F7F3F0",
