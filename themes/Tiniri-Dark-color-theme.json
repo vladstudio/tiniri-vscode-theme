@@ -91,6 +91,7 @@
     "editorGroupHeader.tabsBackground": "#1B1D1F",
     "editorGroupHeader.tabsBorder": "#0003",
     "editorGroupHeader.noTabsBackground": "#1B1D1F",
+    "editorUnnecessaryCode.opacity": "#00000066",
     "tab.activeModifiedBorder": "#F5A571",
     "tab.inactiveModifiedBorder": "#F5A57188",
     "tab.unfocusedActiveModifiedBorder": "#F5A571AA",

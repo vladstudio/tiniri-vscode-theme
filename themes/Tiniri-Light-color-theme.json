@@ -153,6 +153,7 @@
     "editorLightBulb.foreground": "#B29084",
     "editorLightBulbAutoFix.foreground": "#B29084",
     "editorLightBulbAi.foreground": "#B29084",
+    "editorUnnecessaryCode.opacity": "#00000099",
     "debugToolBar.background": "#F7DDCB",
     "pickerGroup.border": "#80797420",
     "pickerGroup.foreground": "#333231",
