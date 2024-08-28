@@ -158,7 +158,7 @@
     "extensionButton.prominentForeground": "#D7DCE0",
     "statusBar.background": "#1B1D1F",
     "statusBar.border": "#0003",
-    "statusBar.debuggingBackground": "#314F5288",
+    "statusBar.debuggingBackground": "#538A8A33",
     "statusBar.debuggingForeground": "#D7DCE088",
     "statusBar.foreground": "#D7DCE088",
     "statusBar.noFolderBackground": "#1B1D1F",
@@ -820,7 +820,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#8B959E"
+        "foreground": "#66AACC"
       }
     },
     {
