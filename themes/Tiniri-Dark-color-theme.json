@@ -260,14 +260,14 @@
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#8B959E"
+        "foreground": "#D7DCE0"
       }
     },
     {
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#F5A571",
+        "foreground": "#D7DCE0",
         "fontStyle": ""
       }
     },
@@ -279,14 +279,14 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#8B959E"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -516,7 +516,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -551,7 +551,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -1038,7 +1038,7 @@
         "source.go constant.other.placeholder.go"
       ],
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -1223,7 +1223,7 @@
       "name": "JSON Support Constants",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#66AACC"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -1244,7 +1244,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -1265,14 +1265,14 @@
       "name": "Ruby Hashkeys",
       "scope": "constant.language.symbol.hashkey.ruby",
       "settings": {
-        "foreground": "#8B959E"
+        "foreground": "#D7DCE0"
       }
     },
     {
       "name": "Ruby Symbols",
       "scope": "constant.language.symbol.ruby",
       "settings": {
-        "foreground": "#8B959E"
+        "foreground": "#D7DCE0"
       }
     },
     {
@@ -1429,7 +1429,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#F5A571"
+        "foreground": "#D7DCE0"
       }
     },
     {

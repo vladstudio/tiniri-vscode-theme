@@ -286,14 +286,14 @@
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#333231"
       }
     },
     {
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#AD514C",
+        "foreground": "#333231",
         "fontStyle": ""
       }
     },
@@ -305,14 +305,14 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#AD514C"
+        "foreground": "#333231"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#356B94"
+        "foreground": "#333231"
       }
     },
     {
@@ -542,7 +542,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#AD514C"
+        "foreground": "#333231"
       }
     },
     {
@@ -577,7 +577,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#AD514C"
+        "foreground": "#333231"
       }
     },
     {
