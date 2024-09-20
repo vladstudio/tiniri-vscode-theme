@@ -340,14 +340,14 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#333231"
+        "foreground": "#AD514C"
       }
     },
     {
       "name": "Keyword",
       "scope": ["punctuation.accessor", "keyword"],
       "settings": {
-        "foreground": "#807974"
+        "foreground": "#AD514C"
       }
     },
     {
