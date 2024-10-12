@@ -588,6 +588,13 @@
       }
     },
     {
+      "name": "Object Literal Key",
+      "scope": "meta.object-literal.key",
+      "settings": {
+        "foreground": "#356B94"
+      }
+    },
+    {
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
