@@ -260,6 +260,7 @@
   { "scope": ["object"], "settings": { "foreground": "#356B94" } },
   { "scope": ["object.comma"], "settings": { "foreground": "#807974" } },
   { "scope": ["punctuation"], "settings": { "foreground": "#807974" } },
+  { "scope": ["punctuation.definition.comment"], "settings": { "foreground": "#80797499" } },
   { "scope": ["quote"], "settings": { "foreground": "#538A8A" } },
   { "scope": ["raw"], "settings": { "foreground": "#807974" } },
   { "scope": ["source"], "settings": { "foreground": "#356B94" } },
