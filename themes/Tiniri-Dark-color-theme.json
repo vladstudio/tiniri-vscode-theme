@@ -1,7 +1,7 @@
 {
   "name": "Tiniri Dark",
   "type": "dark",
-  "semanticHighlighting": false,
+  "semanticHighlighting": true,
   "colors": {
     "foreground": "#DBD7D1",
     "focusBorder": "#F5A57166",

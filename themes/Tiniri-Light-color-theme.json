@@ -287,7 +287,6 @@
       "scope": [
         "support.constant",
         "constant",
-        "punctuation.definition.constant",
         "variable.other.constant"
       ],
       "settings": {
@@ -306,13 +305,6 @@
       "scope": ["string.regexp"],
       "settings": {
         "foreground": "#333231"
-      }
-    },
-    {
-      "name": "Comma in functions",
-      "scope": "meta.function punctuation.separator.comma",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -446,8 +438,8 @@
       }
     },
     {
-      "name": "Null",
-      "scope": "constant.language.null",
+      "name": "constant.language",
+      "scope": "constant.language",
       "settings": {
         "foreground": "#333231"
       }
@@ -467,24 +459,10 @@
       }
     },
     {
-      "name": "Punctuation Definition String",
-      "scope": "punctuation.definition.string",
+      "name": "Punctuation",
+      "scope": "punctuation",
       "settings": {
         "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Punctuation Definition String Markdown",
-      "scope": "punctuation.definition.string.begin.markdown",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Boolean",
-      "scope": "constant.language.boolean",
-      "settings": {
-        "foreground": "#333231"
       }
     },
     {
@@ -502,30 +480,10 @@
       }
     },
     {
-      "name": "Support Type Property Name & entity name tags",
-      "scope": [
-        "support.type.vendor.property-name",
-        "support.constant.vendor.property-value",
-        "support.type.property-name",
-        "meta.property-list entity.name.tag"
-      ],
-      "settings": {
-        "foreground": "#807974",
-        "fontStyle": ""
-      }
-    },
-    {
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
         "foreground": "#538A8A"
-      }
-    },
-    {
-      "name": "Constant Other Color RGB Value Punctuation Definition Constant",
-      "scope": "constant.other.color.rgb-value punctuation.definition.constant",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -566,13 +524,6 @@
     {
       "name": "Doctypes",
       "scope": ["entity.name.tag.doctype", "meta.tag.sgml.doctype"],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Punctuation Definition Parameters",
-      "scope": "punctuation.definition.parameters",
       "settings": {
         "foreground": "#807974"
       }
@@ -735,49 +686,10 @@
       }
     },
     {
-      "name": "Punctuation Section Embedded",
-      "scope": "punctuation.section.embedded",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Punctuation Tweaks",
-      "scope": [
-        "punctuation.terminator.expression",
-        "punctuation.definition.arguments",
-        "punctuation.definition.array",
-        "punctuation.section.array",
-        "meta.array"
-      ],
-      "settings": {
-        "foreground": "#356B94"
-      }
-    },
-    {
-      "name": "More Punctuation Tweaks",
-      "scope": [
-        "punctuation.definition.list.begin",
-        "punctuation.definition.list.end",
-        "punctuation.separator.arguments",
-        "punctuation.definition.list"
-      ],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
       "name": "Template Strings",
       "scope": "string.template meta.template.expression",
       "settings": {
         "foreground": "#AD514C"
-      }
-    },
-    {
-      "name": "Backtics(``) in Template Strings",
-      "scope": "string.template punctuation.definition.string",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -892,30 +804,6 @@
       }
     },
     {
-      "name": "Elixir String Punctuations",
-      "scope": "source.elixir punctuation.definition.string",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Elixir",
-      "scope": [
-        "source.elixir variable.other.readwrite.module.elixir",
-        "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
-      ],
-      "settings": {
-        "foreground": "#333231"
-      }
-    },
-    {
-      "name": "Elixir Binary Punctuations",
-      "scope": "source.elixir .punctuation.binary.elixir",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
       "name": "Closure Constant Keyword",
       "scope": "constant.keyword.clojure",
       "settings": {
@@ -946,16 +834,6 @@
       ],
       "settings": {
         "foreground": "#356B94"
-      }
-    },
-    {
-      "name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
-      "scope": [
-        "source.go constant.language.go",
-        "source.go constant.other.placeholder.go"
-      ],
-      "settings": {
-        "foreground": "#AD514C"
       }
     },
     {
@@ -1011,13 +889,6 @@
       }
     },
     {
-      "name": "HTML Punctuation Definition Tag",
-      "scope": "punctuation.definition.tag.html",
-      "settings": {
-        "foreground": "#807974CC"
-      }
-    },
-    {
       "name": "HTML Doctype",
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
@@ -1043,13 +914,6 @@
       "scope": "terminator.js",
       "settings": {
         "foreground": "#333231"
-      }
-    },
-    {
-      "name": "JavaScript Meta Punctuation Definition",
-      "scope": "meta.js punctuation.definition.js",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -1130,20 +994,6 @@
       }
     },
     {
-      "name": "Strings in JSON values",
-      "scope": "string.quoted.double.json punctuation.definition.string.json",
-      "settings": {
-        "foreground": "#333231"
-      }
-    },
-    {
-      "name": "Specific JSON Property values like null",
-      "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
-      "settings": {
-        "foreground": "#AD514C"
-      }
-    },
-    {
       "name": "Ruby Variables",
       "scope": ["variable.other.ruby"],
       "settings": {
@@ -1155,20 +1005,6 @@
       "scope": ["entity.name.type.class.ruby"],
       "settings": {
         "foreground": "#333231"
-      }
-    },
-    {
-      "name": "Ruby Hashkeys",
-      "scope": "constant.language.symbol.hashkey.ruby",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Ruby Symbols",
-      "scope": "constant.language.symbol.ruby",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -1254,43 +1090,10 @@
       }
     },
     {
-      "name": "Markdown Punctuation",
-      "scope": [
-        "punctuation.definition.string.markdown",
-        "punctuation.definition.string.begin.markdown",
-        "punctuation.definition.string.end.markdown",
-        "meta.link.inline.markdown punctuation.definition.string"
-      ],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Markdown MetaData Punctuation",
-      "scope": ["punctuation.definition.metadata.markdown"],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Markdown List Punctuation",
-      "scope": ["beginning.punctuation.definition.list.markdown"],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
       "name": "Markdown Inline Raw String",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
         "foreground": "#356B94"
-      }
-    },
-    {
-      "name": "Punctuations in PHP function calls",
-      "scope": "meta.function-call.php punctuation",
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
@@ -1301,32 +1104,11 @@
       }
     },
     {
-      "name": "Declaration Punctuation in PHP Global Variables",
-      "scope": "variable.other.global.php punctuation.definition.variable",
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Language Constants in Python",
-      "scope": "constant.language.python",
-      "settings": {
-        "foreground": "#AD514C"
-      }
-    },
-    {
       "name": "Python Function Call",
       "scope": [
         "meta.function-call.python",
         "meta.function-call.generic.python"
       ],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "name": "Punctuations in Python",
-      "scope": "punctuation.python",
       "settings": {
         "foreground": "#807974"
       }
@@ -1443,28 +1225,6 @@
       ],
       "settings": {
         "foreground": "#80797499"
-      }
-    },
-    {
-      "name": "TypeScript[React] Import/Export Punctuations",
-      "scope": [
-        "meta.import.ts punctuation.definition.block",
-        "meta.import.tsx punctuation.definition.block",
-        "meta.export.ts punctuation.definition.block",
-        "meta.export.tsx punctuation.definition.block"
-      ],
-      "settings": {
-        "foreground": "#356B94"
-      }
-    },
-    {
-      "name": "TypeScript[React] Punctuation Decorators",
-      "scope": [
-        "meta.decorator punctuation.decorator.ts",
-        "meta.decorator punctuation.decorator.tsx"
-      ],
-      "settings": {
-        "foreground": "#807974"
       }
     },
     {
