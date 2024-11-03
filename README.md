@@ -2,9 +2,9 @@
 
 Optimized for calmness and coziness. Available in light and dark.
 
-![Screenshot, Light](https://tiniri.vlad.studio/shots/vscode-light-h.webp)
+![Screenshot, Light](https://tiniri.vlad.studio/shots/vscode-light-h.png)
 
-![Screenshot, Dark](https://tiniri.vlad.studio/shots/vscode-dark-h.webp)
+![Screenshot, Dark](https://tiniri.vlad.studio/shots/vscode-dark-h.png)
 
 [Install from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=vladstudio.vlad-studio-tiniri) · [Github](https://github.com/vladstudio/tiniri-vscode-theme)
 
