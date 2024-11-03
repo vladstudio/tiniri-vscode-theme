@@ -23,11 +23,6 @@ Tiniri themes for other apps and a wallpaper for desktop and mobile devices:
 
 ### Also
 
-I found these fonts to play especially nice with Tiniri:
-
-- [SF Mono](https://developer.apple.com/fonts/)
-- [IBM Plex Mono](https://www.ibm.com/plex/)
-
 If you use Git Graph, add to your `settings.json`:
 
 ```json
