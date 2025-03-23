@@ -11,6 +11,7 @@
     "widget.shadow": "#0005",
     "icon.foreground": "#DBD7D1AA",
     "titleBar.activeBackground": "#1B1D1E",
+    "titleBar.border": "#0003",
     "notifications.background": "#1F2122",
     "notifications.foreground": "#DBD7D199",
     "notificationLink.foreground": "#938A80",
