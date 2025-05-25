@@ -239,7 +239,14 @@
   { "scope": ["entity.name.section.markdown"], "settings": { "foreground": "#F5A571" } },
   { "scope": ["entity.name.tag"], "settings": { "foreground": "#938A80" } },
   { "scope": ["entity.name.tag.css"], "settings": { "foreground": "#DBD7D1" } },
-  { "scope": ["entity.name.type.tsx", "support.type.primitive.ts", "entity.name.type.ts"], "settings": { "foreground": "#938A80AA" } },
+  { "scope": [
+    "entity.name.type.tsx",
+    "support.type.primitive.tsx",
+    "entity.name.type.tsx",
+    "entity.name.type.ts",
+    "support.type.primitive.ts",
+    "entity.name.type.ts"
+  ], "settings": { "foreground": "#938A8088" } },
   { "scope": ["punctuation.definition.typeparameters"], "settings": { "foreground": "#E59793AA" } },
   { "scope": ["entity.other"], "settings": { "foreground": "#5BA9B9" } },
   { "scope": ["entity.other.attribute-name.css"], "settings": { "foreground": "#DBD7D1" } },
