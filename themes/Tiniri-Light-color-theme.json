@@ -208,14 +208,14 @@
     "terminal.foreground": "#333231DD",
     "terminal.dropBackground": "#80797422",
     "toolbar.hoverBackground": "#80797411",
-    "diffEditor.insertedTextBackground": "#538A8A22",
-    "diffEditor.removedTextBackground": "#AD514C18",
+    "diffEditor.insertedTextBackground": "#538A8A11",
+    "diffEditor.removedTextBackground": "#AD514C11",
     "diffEditor.border": "#80797420",
     "diffEditor.diagonalFill": "#33323111",
-    "diffEditor.insertedLineBackground": "#538A8A22",
-    "diffEditor.removedLineBackground": "#AD514C18",
-    "diffEditorGutter.insertedLineBackground": "#538A8A22",
-    "diffEditorGutter.removedLineBackground": "#AD514C18",
+    "diffEditor.insertedLineBackground": "#538A8A11",
+    "diffEditor.removedLineBackground": "#AD514C11",
+    "diffEditorGutter.insertedLineBackground": "#538A8A11",
+    "diffEditorGutter.removedLineBackground": "#AD514C11",
     "diffEditor.unchangedRegionBackground": "#FDFCFC",
     "diffEditor.unchangedCodeBackground": "#FDFCFC",
 
@@ -230,7 +230,7 @@
     "gitDecoration.conflictingResourceForeground": "#AD514C",
     "gitDecoration.submoduleResourceForeground": "#807974"
   },
-  "tokenColors": // prettier-ignore
+  "tokenColors": 
   [ 
   { "scope": ["comment"], "settings": { "foreground": "#80797499" } },
   { "scope": ["constant"], "settings": { "foreground": "#333231" } },
