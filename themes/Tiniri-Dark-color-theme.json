@@ -86,7 +86,7 @@
     "tab.inactiveForeground": "#DBD7D199",
     "tab.inactiveBackground": "#1B1D1F",
     "tab.hoverBackground": "#0004",
-    "editorLink.activeForeground": "#5BA9B9",
+    "editorLink.activeForeground": "#74A1AA",
     "editorGroup.border": "#0003",
     "editorGroupHeader.border": "#0003",
     "editorGroupHeader.tabsBackground": "#1B1D1F",
@@ -312,7 +312,7 @@
         "entity.other"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -353,7 +353,7 @@
         "meta.diff.header"
       ],
       "settings": {
-        "foreground": "#5BA9B999"
+        "foreground": "#74A1AA99"
       }
     },
     {
@@ -385,7 +385,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -393,7 +393,7 @@
         "markup.underline.link"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -401,7 +401,7 @@
         "meta.attribute-selector"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -425,7 +425,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -441,7 +441,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -457,7 +457,7 @@
         "meta.selector"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -490,7 +490,7 @@
         "object"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -580,7 +580,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -588,7 +588,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -612,7 +612,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -628,7 +628,7 @@
         "variable.other"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -645,7 +645,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
@@ -655,7 +655,7 @@
         "variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#5BA9B9"
+        "foreground": "#74A1AA"
       }
     },
     {
