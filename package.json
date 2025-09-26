@@ -38,9 +38,19 @@
         "path": "./themes/Tiniri-Light-color-theme.json"
       },
       {
+        "label": "Tiniri Minimal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Tiniri-Minimal-Light-color-theme.json"
+      },
+      {
         "label": "Tiniri Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Tiniri-Dark-color-theme.json"
+      },
+      {
+        "label": "Tiniri Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tiniri-Minimal-Dark-color-theme.json"
       }
     ]
   }
