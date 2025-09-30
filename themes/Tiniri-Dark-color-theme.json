@@ -301,14 +301,6 @@
     },
     {
       "scope": [
-        "punctuation.definition.typeparameters"
-      ],
-      "settings": {
-        "foreground": "#E59793AA"
-      }
-    },
-    {
-      "scope": [
         "entity.other"
       ],
       "settings": {
@@ -506,7 +498,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#938A80"
+        "foreground": "#938A80BB"
       }
     },
     {
@@ -514,7 +506,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#4E535F"
+        "foreground": "#938A8055"
       }
     },
     {

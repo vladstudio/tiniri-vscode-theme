@@ -292,10 +292,13 @@
     },
     {
       "scope": [
-        "punctuation.definition.typeparameters"
+        "punctuation",
+        "keyword.operator",
+        "punctuation.definition.comment",
+        "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#AD514CAA"
+        "foreground": "#807974BB"
       }
     },
     {
@@ -486,22 +489,6 @@
     },
     {
       "scope": [
-        "punctuation"
-      ],
-      "settings": {
-        "foreground": "#807974"
-      }
-    },
-    {
-      "scope": [
-        "punctuation.definition.comment"
-      ],
-      "settings": {
-        "foreground": "#80797499"
-      }
-    },
-    {
-      "scope": [
         "quote"
       ],
       "settings": {
@@ -656,7 +643,6 @@
         "keyword.operator.type",
         "keyword.operator",
         "keyword",
-        "punctuation.definintion.string",
         "punctuation",
         "storage.type",
         "source.css",
