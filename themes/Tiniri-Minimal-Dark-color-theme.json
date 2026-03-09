@@ -1,5 +1,5 @@
 {
-  "name": "Tiniri Minimal Dark",
+  "name": "Tiniri Dark",
   "type": "dark",
   "semanticHighlighting": false,
   "colors": {
@@ -165,7 +165,7 @@
     "statusBar.noFolderBackground": "#1B1D1F",
     "statusBar.noFolderForeground": "#DBD7D188",
     "statusBarItem.hoverBackground": "#0004",
-    "panel.background": "#1B1D1F",
+    "panel.background": "#1F2123",
     "panel.border": "#0003",
     "panelInput.border": "#0004",
     "panelTitle.activeBorder": "#AD514CCC",
@@ -199,7 +199,7 @@
     "terminal.ansiBrightMagenta": "#ABA49C",
     "terminal.ansiBrightCyan": "#E8E5E3",
     "terminal.ansiBrightWhite": "#FFFCF0",
-    "terminal.background": "#1B1D1F",
+    "terminal.background": "#1F2123",
     "terminal.foreground": "#DBD7D1BB",
     "toolbar.hoverBackground": "#0004",
     "diffEditor.insertedTextBackground": "#314F5233",
@@ -309,23 +309,30 @@
         "entity.name.function",
         "entity.name.section.markdown",
         "invalid.broken",
+        "meta.template.expression",
+        "support.variable",
+        "variable",
+        "variable.other.property",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#F5A571"
+      }
+    },
+    {
+      "scope": [
+        "entity.other",
         "markup.inserted",
         "markup.underline.link",
         "meta.attribute-selector",
         "meta.function-call",
         "meta.object-literal.key",
         "meta.selector",
-        "meta.template.expression",
         "object",
-        "entity.other",
         "support.function",
         "support.type",
-        "support.variable",
-        "variable",
         "variable.function",
         "variable.other",
-        "variable.other.property",
-        "variable.other.readwrite",
         "variable.parameter",
         "variable.scss",
         "variable.sass",
@@ -346,11 +353,18 @@
     {
       "scope": [
         "markup.changed",
-        "meta.diff.header",
-        "markup.deleted"
+        "meta.diff.header"
       ],
       "settings": {
         "foreground": "#74A1AA99"
+      }
+    },
+    {
+      "scope": [
+        "markup.deleted"
+      ],
+      "settings": {
+        "foreground": "#F5A57199"
       }
     },
     {
@@ -376,6 +390,7 @@
         "keyword.operator.type",
         "keyword.operator",
         "keyword",
+        "punctuation.definintion.string",
         "punctuation",
         "storage.type",
         "source.css",
