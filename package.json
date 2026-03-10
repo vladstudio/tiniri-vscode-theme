@@ -22,7 +22,7 @@
     "Paper"
   ],
   "scripts": {
-    "publish": "vsce publish"
+    "release": "npm version patch && vsce publish && ovsx publish"
   },
   "engines": {
     "vscode": "^1.66.0"
