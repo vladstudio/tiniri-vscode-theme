@@ -52,6 +52,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Tiniri-Minimal-Dark-color-theme.json"
       }
+    ],
+    "markdown.previewStyles": [
+      "./themes/Tiniri-markdown-preview.css"
     ]
   }
 }
