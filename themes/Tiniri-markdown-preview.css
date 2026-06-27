@@ -1,32 +1,8 @@
 body {
-  padding: 24px 32px;
-  line-height: 1.72;
+  padding: 24px;
+  line-height: 1.8;
   font-size: var(--vscode-editor-font-size, 14px);
   text-rendering: optimizeLegibility;
-}
-
-body.vscode-dark {
-  background: #1a1c1e;
-  color: #e8e6e3;
-  --tiniri-accent: #ad514c;
-  --tiniri-link: #85a0ad;
-  --tiniri-muted: #9f9a93;
-  --tiniri-border: rgba(232, 230, 227, 0.1);
-  --tiniri-surface: rgba(255, 255, 255, 0.04);
-  --tiniri-code: rgba(0, 0, 0, 0.22);
-  --tiniri-mark: rgba(173, 81, 76, 0.16);
-}
-
-body.vscode-light {
-  background: #fefdfd;
-  color: #222120;
-  --tiniri-accent: #994c48;
-  --tiniri-link: #2d5c80;
-  --tiniri-muted: #76726f;
-  --tiniri-border: rgba(34, 33, 32, 0.1);
-  --tiniri-surface: rgba(118, 114, 111, 0.06);
-  --tiniri-code: rgba(118, 114, 111, 0.1);
-  --tiniri-mark: rgba(181, 144, 132, 0.22);
 }
 
 body,
@@ -37,6 +13,16 @@ body * {
 body {
   max-width: 920px;
   margin: 0 auto;
+  background: var(--vscode-editor-background);
+  color: var(--vscode-editor-foreground);
+  --tiniri-accent: var(--vscode-terminal-ansiRed, var(--vscode-editorCursor-foreground, var(--vscode-textLink-foreground)));
+  --tiniri-link: var(--vscode-terminal-ansiBlue, var(--vscode-editor-foreground));
+  --tiniri-muted: var(--vscode-descriptionForeground, var(--vscode-editorLineNumber-foreground));
+  --tiniri-border: var(--vscode-sideBar-border, var(--vscode-editorWidget-border));
+  --tiniri-surface: var(--vscode-sideBar-background, var(--vscode-editor-background));
+  --tiniri-code: var(--vscode-sideBar-background, var(--vscode-editor-background));
+  --tiniri-code-fg: var(--vscode-terminal-ansiBlue, var(--vscode-editor-foreground));
+  --tiniri-mark: color-mix(in srgb, var(--vscode-editorCursor-foreground) 18%, transparent);
 }
 
 a {
@@ -50,25 +36,22 @@ a:hover {
 }
 
 h1,
+h1 *,
 h2,
+h2 *,
 h3,
+h3 *,
 h4,
+h4 *,
 h5,
-h6 {
-  color: var(--tiniri-accent);
+h5 *,
+h6,
+h6 * {
+  color: var(--tiniri-accent) !important;
   line-height: 1.2;
   font-weight: 600;
   margin: 1.5em 0 0.6em;
-}
-
-h1 {
-  padding-bottom: 0.25em;
-  border-bottom: 1px solid var(--tiniri-border);
-}
-
-h2 {
-  padding-bottom: 0.2em;
-  border-bottom: 1px solid var(--tiniri-border);
+  border: none;
 }
 
 p,
@@ -79,15 +62,15 @@ blockquote,
 pre,
 table,
 hr {
-  margin: 1em 0;
+  margin: 1.5em 0;
 }
 
 blockquote {
   padding: 0.8em 1em;
-  border-left: 3px solid var(--tiniri-accent);
+  border: 1px solid var(--tiniri-border);
   background: var(--tiniri-surface);
   color: var(--tiniri-muted);
-  border-radius: 0.35rem;
+  border-radius: 0.25rem;
 }
 
 code,
@@ -99,8 +82,9 @@ pre code {
 
 code {
   background: var(--tiniri-code);
+  color: var(--tiniri-code-fg);
   padding: 0.15em 0.38em;
-  border-radius: 0.35em;
+  border-radius: 0.25em;
 }
 
 pre {
@@ -113,6 +97,7 @@ pre {
 
 pre code {
   background: transparent;
+  color: var(--tiniri-code-fg);
   padding: 0;
   border-radius: 0;
 }
@@ -120,17 +105,16 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
+  background: var(--vscode-editor-background);
 }
 
 th,
 td {
-  border: 1px solid var(--tiniri-border);
-  padding: 0.5rem 0.75rem;
+  padding: 0s.5rem 0.75rem;
   vertical-align: top;
 }
 
 th {
-  background: var(--tiniri-surface);
   color: var(--tiniri-accent);
   text-align: left;
 }
@@ -157,7 +141,7 @@ kbd {
   background: var(--tiniri-surface);
   border: 1px solid var(--tiniri-border);
   border-bottom-color: var(--tiniri-muted);
-  border-radius: 0.35em;
+  border-radius: 0.25em;
   padding: 0.1em 0.35em;
   font-size: 0.9em;
 }
@@ -172,5 +156,5 @@ input[type='checkbox'] {
 }
 
 ::selection {
-  background: rgba(83, 138, 138, 0.35);
+  background: var(--vscode-editor-selectionBackground);
 }
